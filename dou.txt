@@ -4,3 +4,5 @@
 2. [NG] 获取QML的WebView对象后，无法进一步控制这个对象；因为没有QDeclarativeWebView这个头文件，即使有，似乎也没有有用的方法。搜索“QDeclarativeWebView”查看详细定义。
 3. [OK] 实现了自己的WebView QML类：MyWebView。
 4. [OK] 滚动已基本实现（见mywebbrowser.qml）。
+
+20120924 测试使用prose编辑dou.txt文件。
